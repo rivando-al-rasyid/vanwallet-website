@@ -1,0 +1,6 @@
+[submodule "vanwallet-react"]
+	path = vanwallet-react
+	url = git@github.com:rivando-al-rasyid/vanwallet-react.git
+[submodule "vanwallet-backend"]
+	path = vanwallet-backend
+	url = git@github.com:rivando-al-rasyid/vanwallet-backend.git
